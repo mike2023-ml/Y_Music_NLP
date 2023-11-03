@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81cb3792-d3bb-400a-8129-3962c75cc11b" name="Changes" comment="Initial commit">
-      <changelist_data name="Ekaterina Kulikova" email="133406962+ekaterinaiii@users.noreply.github.com" />
+    <list default="true" id="81cb3792-d3bb-400a-8129-3962c75cc11b" name="Changes" comment="Mike">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/y_music.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/y_music.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Михан/Documents/GitHub/Y_Music_NLP",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -54,12 +53,36 @@
       <workItem from="1698261656302" duration="64000" />
       <workItem from="1698261887179" duration="140000" />
       <workItem from="1698262442320" duration="16000" />
-      <workItem from="1698262611862" duration="505000" />
+      <workItem from="1698262611862" duration="885000" />
+      <workItem from="1698354497245" duration="180000" />
+      <workItem from="1698355530843" duration="311000" />
+      <workItem from="1698355963276" duration="819000" />
+      <workItem from="1698356799796" duration="716000" />
+      <workItem from="1698358106602" duration="15000" />
     </task>
+    <task id="LOCAL-00001" summary="Mike">
+      <created>1698263282313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698263282313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -74,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Mike" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mike" />
   </component>
 </project>
